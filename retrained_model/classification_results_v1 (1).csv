@@ -1,0 +1,11 @@
+Image Name,Actual Class,Predicted Class,Match,Confidence (%),Caterpillar (%),Diabrotica Speciosa (%),Healthy (%)
+catepiller_1.jpg,Caterpillar,Diabrotica Speciosa,No,76.28,23.03,76.28,0.69
+catepiller_2.jpg,Caterpillar,Caterpillar,Yes,88.8,88.8,10.51,0.69
+catepiller_3.jpg,Caterpillar,Caterpillar,Yes,98.12,98.12,1.38,0.5
+catepiller_4.jpg,Caterpillar,Caterpillar,Yes,100.0,100.0,0.0,0.0
+diabrotica_1.webp,Diabrotica Speciosa,Diabrotica Speciosa,Yes,100.0,0.0,100.0,0.0
+diabrotica_2.jpg,Diabrotica Speciosa,Diabrotica Speciosa,Yes,99.8,0.2,99.8,0.0
+diabrotica_3.jpg,Diabrotica Speciosa,Diabrotica Speciosa,Yes,99.99,0.0,99.99,0.01
+healthy_1.png,Healthy,Caterpillar,No,62.65,62.65,0.58,36.77
+healthy_2.jpg,Healthy,Healthy,Yes,99.24,0.42,0.34,99.24
+healthy_3.jpg,Healthy,Healthy,Yes,98.61,1.35,0.04,98.61
